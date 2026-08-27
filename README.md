@@ -1,7 +1,7 @@
 ### Hi there Welcome to my page UwU 👋
-[![Blizzardfur-Maxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blizzardfur-Maxxx)](https://github.com/anuraghazra/github-readme-stats)
+[![BlizzardfurMeow's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BlizzardfurMeow)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**Blizzardfur-Maxxx/Blizzardfur-Maxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BlizzardfurMeow/BlizzardfurMeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
